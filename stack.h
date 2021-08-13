@@ -1,7 +1,6 @@
 #ifndef STACK_H
 #define STACK_H
-// 链栈的实现
-// 欲实现链栈，需先实现链表
+
 #include <stdio.h>
 #include <string.h>
 #include <stdint.h>
